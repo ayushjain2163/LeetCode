@@ -1,26 +1,21 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        // unordered_map <char,int> map1;
-        // unordered_map <char,int> map2;
-        // for(char c : s){
-        //     map1[c]++;
+        
+        // sort(s.begin(),s.end());
+        // sort(t.begin(),t.end());
+        // int i=0;
+        // for(char c: s){
+        //     if(c!=t[i]){
+        //         return t[i];
+        //     }
+        //     i++;
         // }
-        // for(char c : t){
-        //     map2[c]++;
-        // }
-        // for(auto a : map2){
-            
-        // }
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        int i=0;
-        for(char c: s){
-            if(c!=t[i]){
-                return t[i];
-            }
-            i++;
-        }
-        return t[t.size()-1];
+        // return t[t.size()-1];
+
+        int ans=0;
+        for(int i=0;i<s.size();i++) ans+=s[i];
+        for(int i=0;i<t.size();i++) ans-=t[i];
+        return char(abs(ans));
     }
 };
