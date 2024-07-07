@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ayushjain2163/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ayushjain2163/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0283-move-zeroes) |
+| [0932-monotonic-array](https://github.com/ayushjain2163/LeetCode/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/ayushjain2163/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ayushjain2163/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayushjain2163/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
