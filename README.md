@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayushjain2163/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ayushjain2163/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ayushjain2163/LeetCode/tree/master/0389-find-the-difference) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ayushjain2163/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayushjain2163/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/ayushjain2163/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ayushjain2163/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayushjain2163/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
