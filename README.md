@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/ayushjain2163/LeetCode/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/ayushjain2163/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ayushjain2163/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1803-average-waiting-time](https://github.com/ayushjain2163/LeetCode/tree/master/1803-average-waiting-time) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayushjain2163/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
@@ -67,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/ayushjain2163/LeetCode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/ayushjain2163/LeetCode/tree/master/1803-average-waiting-time) |
 | [2645-pass-the-pillow](https://github.com/ayushjain2163/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
