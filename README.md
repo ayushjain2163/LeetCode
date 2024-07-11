@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayushjain2163/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ayushjain2163/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/ayushjain2163/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0742-to-lower-case](https://github.com/ayushjain2163/LeetCode/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/ayushjain2163/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
