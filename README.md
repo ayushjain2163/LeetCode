@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayushjain2163/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/ayushjain2163/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/ayushjain2163/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushjain2163/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/ayushjain2163/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ayushjain2163/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/ayushjain2163/LeetCode/tree/master/1894-merge-strings-alternately) |
