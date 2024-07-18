@@ -8,6 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+//Efficient Approach 
+
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
@@ -48,7 +51,7 @@ public:
 
 
 
-
+// Slower Approach
 // class Solution {
 // public:
 //     ListNode* rotate(ListNode* head){
