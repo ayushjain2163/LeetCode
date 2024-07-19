@@ -79,4 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/ayushjain2163/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/ayushjain2163/LeetCode/tree/master/1803-average-waiting-time) |
 | [2645-pass-the-pillow](https://github.com/ayushjain2163/LeetCode/tree/master/2645-pass-the-pillow) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushjain2163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushjain2163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushjain2163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushjain2163/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
