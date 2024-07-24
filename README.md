@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ayushjain2163/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ayushjain2163/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain2163/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/ayushjain2163/LeetCode/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/ayushjain2163/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain2163/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
