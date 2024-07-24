@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayushjain2163/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayushjain2163/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ayushjain2163/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushjain2163/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ayushjain2163/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ayushjain2163/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayushjain2163/LeetCode/tree/master/0066-plus-one) |
 | [1642-water-bottles](https://github.com/ayushjain2163/LeetCode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ayushjain2163/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayushjain2163/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
