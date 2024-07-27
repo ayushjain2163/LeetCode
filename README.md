@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayushjain2163/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ayushjain2163/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ayushjain2163/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayushjain2163/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ayushjain2163/LeetCode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayushjain2163/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ayushjain2163/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayushjain2163/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ayushjain2163/LeetCode/tree/master/0389-find-the-difference) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ayushjain2163/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ayushjain2163/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain2163/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/ayushjain2163/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ayushjain2163/LeetCode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/ayushjain2163/LeetCode/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/ayushjain2163/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain2163/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushjain2163/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushjain2163/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
